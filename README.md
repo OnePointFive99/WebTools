@@ -14,7 +14,7 @@ https://cn.piliapp.com/time-now/
 https://www.latexlive.com/##
 ![image](https://user-images.githubusercontent.com/48060880/220693781-1bc0215a-0fac-45bf-9cd3-b8b529bad35e.png)
 
-## Idle Game(网页挂机小游戏)
+## Idle Game
 http://couy.xyz/#/
 ![image](https://user-images.githubusercontent.com/48060880/220694278-ef23de90-3717-4dcb-bfa5-3edc85d025ad.png)
 
@@ -46,7 +46,7 @@ https://cloudconvert.com/
 https://bilibili.iiilab.com/
 ![image](https://user-images.githubusercontent.com/48060880/220696937-77c241bf-92d2-484c-98be-ae39544f2f35.png)
 
-## iLoveimg (批量编辑图片)
+## iLoveimg 
 https://www.iloveimg.com/zh-cn
 ![image](https://user-images.githubusercontent.com/48060880/220697110-d3b76a17-9200-4f29-b672-a386822e09cf.png)
 
